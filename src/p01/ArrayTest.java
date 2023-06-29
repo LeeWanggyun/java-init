@@ -10,10 +10,10 @@ public class ArrayTest {
 		System.out.println(lotto[3]);
 		System.out.println(lotto[4]);
 		System.out.println(lotto[5]);
-		
+
 		lotto[0] = 1;
 		lotto = new int[5];
-		
+
 		int i = 0;
 		System.out.println(i);
 		i = 1;
